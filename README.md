@@ -2,7 +2,7 @@
 - 👀 I’m interested in chess and fantasy/sci-fi literature.
 - 🌱 I’m currently learning TypeScript, Angular, C# and ASP.NET.
 - 💞️ I’m looking for my first commercial experience.
-- 📫 How to reach me via e-mail.
+- 📫 How to reach me...
 
 <!---
 Irkaldas/Irkaldas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
