@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Irkaldas
 - 👀 I’m interested in chess and fantasy/sci-fi literature.
 - 🌱 I’m currently learning TypeScript, Angular, C# and ASP.NET.
-- 💞️ I’m looking for my first commercial experience.
 - 📫 How to reach me...
 
 <!---
